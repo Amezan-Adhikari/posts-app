@@ -33,7 +33,7 @@
                 >
                 <div class="flex items-center space-x-2 p-2">
                     <img src="/images/profile.png" alt="profile" class="h-6 w-6 border p-1 border-gray-400 rounded-full" />
-                    <div class="font-medium">AMezan ADhikari</div>
+                    <div class="font-medium">USER</div>
                 </div>
 
                 <div class="flex flex-col space-y-3 p-2">
