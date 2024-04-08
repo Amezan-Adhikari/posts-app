@@ -20,7 +20,6 @@
       if(username =='',password=='')return;
 
         fetchUserData(User).then((data)=>{
-
           if(data.loginStatus){
           localStorage.setItem("userdata",JSON.stringify(User))
           LoggedIn.set(false);
